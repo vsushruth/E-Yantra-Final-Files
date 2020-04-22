@@ -4,10 +4,10 @@ This repo contains our final working codes for EYRC-2019 Mocking bot theme.
 Youtube link for [Progress-task](https://www.youtube.com/watch?v=4OK9Z-Rh_Qs)
 
 ## Team:
-Sushruth V
-K Rahul Reddy
-Sahith S R
-Shyam D R
+* Sushruth V
+* K Rahul Reddy
+* Sahith S R
+* Shyam D R
 
 ## Tasks accomplished:
 <h3>Python Tasks:</h3>
